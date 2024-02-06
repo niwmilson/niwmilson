@@ -1,6 +1,6 @@
 # Meu nome, é Niwmilson Nascimento
 
-![Teste](https://github.com/niwmilson/niwmilson/blob/main/1.jpg =300x200)
+![Teste](https://github.com/niwmilson/niwmilson/blob/main/1.jpg)
 
 ## *Sobre mim:*
 
