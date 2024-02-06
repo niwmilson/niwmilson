@@ -1,16 +1,16 @@
-### Hi there 👋
+# Meu nome, é Niwmilson Nascimento
 
-<!--
-**niwmilson/niwmilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## *Sobre mim:*
+
+Sou graduado em Ciências Contábeis
+Sou Graduando em Análise e Desenvolvimento de Sistemas 2024
+Técnico com cursos profissionais na area de gestão condominial
+
+
+
+## Contatos:
+ ### |e-mail: niwmilson@gmail.com
+ ### |linkedin: 
+ ### |Whatsapp +5582988653636
