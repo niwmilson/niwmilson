@@ -4,9 +4,9 @@
 
 ## *Sobre mim:*
 
-> Sou Graduando em Análise e Desenvolvimento de Sistemas 2024. 
-> Sou graduado em Ciências Contábeis.
-> Técnico com cursos profissionais na area de gestão condominial.
+> 1. Sou Graduando em Análise e Desenvolvimento de Sistemas 2024. 
+> 2. Sou graduado em Ciências Contábeis.
+> 3. Técnico com cursos profissionais na area de gestão condominial.
 
 
 
